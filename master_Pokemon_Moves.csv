@@ -1,0 +1,354 @@
+307,Sweet Kiss,1,,75,10,Confuses the target.
+308,Sweet Scent,1,,100,20,Lowers the target's Evasion by 1 stage.
+309,Swift,1,60,100,20,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+310,Swords Dance,1,,,30,Raises the user's Attack by 2 stages.
+311,Synthesis,12,,,5,"Restores a fraction of the user's max HP depending on the weather: 2/3 during Sunny Day, 1/2 during regular weather and 1/4 during Rain Dance, Hail and Sandstorm."
+312,Tackle,1,35,95,35,Damages the target.
+313,Tail Glow,7,,,20,Raises the user's Special Attack by 2 stages.
+314,Tail Whip,1,,100,30,Lowers the target's Defense by 1 stage.
+315,Take Down,1,90,85,20,The user receives 1/4 recoil damage.
+316,Taunt,17,,100,20,"Prevents the target from using non-damaging moves for two turns. Assist, Metronome, Mirror Move and Sleep Talk are prevented during this time, but Bide, Counter, Endeavor, and Mirror Coat are not prevented."
+317,Teeter Dance,1,,100,20,"Each active Pokemon, except the user, becomes confused."
+318,Teleport,14,,,20,Escapes from wild battles; fails automatically in trainer and link battles.
+319,Thief,17,40,100,10,Steals the target's held item unless the user is already holding an item or the target has Sticky Hold.
+320,Thrash,1,90,100,20,The user attacks uncontrollably for 2-3 turns and then gets confused.
+321,Thunder,13,120,70,10,Has a 30% chance to paralyze the target. Has 50% accuracy during Sunny Day and 100% accuracy during Rain Dance. Also has normal accuracy against mid-air Pokemon that used Fly or Bounce.
+322,Thunder Wave,13,,100,20,Paralyzes the target.
+323,Thunderbolt,13,95,100,15,Has a 10% chance to paralyze the target.
+324,Thunderpunch,13,75,100,15,Has a 10% chance to paralyze the target.
+325,Thundershock,13,40,100,30,Has a 10% chance to paralyze the target.
+326,Tickle,1,,100,20,Lowers the target's Attack and Defense by 1 stage each.
+327,Torment,17,,100,15,Prevents the target from using the same move for two turns in a row until the target is switched out. The target will use Struggle every other turn if it cannot attack without using the same move.
+328,Toxic,4,,85,10,"The target is badly poisoned, with the damage caused by poison doubling after each turn. Toxic poisoning will remain with the Pokemon during the battle even after switching out."
+329,Transform,1,,,10,"The user morphs into a near-exact copy of the target. Stats, stat modifiers, type, moves, Hidden Power data and appearance are changed; the user's level and HP remain the same and each copied move receives only 5 PP. (If Transform is used by Ditto, the effects of Metal Powder stop working after transformation.)"
+330,Tri Attack,1,80,100,10,"Has a 20% chance to burn, paralyze or freeze the target."
+331,Trick,14,,100,10,Exchanges items with the target unless it has Sticky Hold. Items lost to this move cannot be recovered by using Recycle.
+332,Triple Kick,2,10,90,10,"Attacks three times in one turn, adding 10 BP for each kick. If a kick misses, the move ends instantly; if one of the kicks breaks a target's Substitute, the real Pokemon will take damage for the remaining kicks."
+333,Twineedle,7,25,100,20,"Strikes twice; if the first hit breaks the target's Substitute, the real Pokemon will take damage from the second hit. Has a 20% chance to poison the target."
+334,Twister,16,40,100,20,Has a 20% chance to make the target flinch; power doubles while the target is in mid-air via Fly or Bounce.
+335,Uproar,1,50,100,10,"The user causes an Uproar and attacks uncontrollably for 2-5 turns. During the effects of the Uproar, active Pokemon cannot fall asleep and sleeping Pokemon sent into battle will wake up."
+336,Vice Grip,1,55,100,30,Damages the target.
+337,Vine Whip,12,35,100,10,Damages the target.
+338,Vital Throw,2,70,100,10,"This move usually goes last. It ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+339,Volt Tackle,13,120,100,15,The user receives 1/3 recoil damage.
+340,Water Gun,11,40,100,25,Damages the target.
+341,Water Pulse,11,60,100,20,Has a 20% chance to confuse the target.
+342,Water Sport,11,,,15,All Fire-type moves are 50% weaker until the user switches out.
+343,Water Spout,11,,100,5,Base power decreases as the user's HP decreases.
+344,Waterfall,11,80,100,15,Damages the target.
+345,Weather Ball,1,50,100,10,"Base power doubles and move's type changes during weather effects: becomes Fire-type during Sunny Day, Water-type during Rain Dance, Ice-type during Hail and Rock-type during Sandstorm."
+346,Whirlpool,11,15,70,15,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass. Base power also doubles when performed against a Pokemon in the middle of using Dive."
+347,Whirlwind,1,,100,20,"Almost always goes last; in trainer battles, the target is switched out for a random member of its team. Escapes from wild battles. Has no effect if the target has Suction Cups or used Ingrain."
+348,Will-O-Wisp,10,,75,15,Burns the target. This move will not activate Flash Fire.
+349,Wing Attack,3,60,100,35,Damages the target.
+350,Wish,1,,,10,"At the end of the next turn, the active Pokemon from the user's team is healed by 1/2 of its max HP; this can be any member of the user's team."
+351,Withdraw,11,,,40,Raises the user's Defense by 1 stage.
+352,Wrap,1,15,85,20,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass."
+353,Yawn,1,,100,10,"If the target stays in battle, it falls asleep at the end of the next turn."
+354,Zap Cannon,13,100,50,5,Paralyzes the target.
+205,Pin Missile,7,14,85,20,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+206,Poison Fang,4,50,100,15,Has a 30% chance to inflict Toxic poison on the target.
+207,Poison Gas,4,,55,40,Poisons the target.
+208,Poison Sting,4,15,100,35,Has a 30% chance to poison the target.
+209,Poison Tail,4,50,100,25,Has a high critical hit ratio and a 10% chance to poison the target.
+210,Poisonpowder,4,,75,35,Poisons the target.
+211,Pound,1,40,100,35,Damages the target.
+212,Powder Snow,15,40,100,25,Has a 10% chance to freeze the target.
+213,Present,1,,90,15,"Randomly either attacks with a variable power, between 40 base power and 120 base power, or heals the target by 80 HP."
+214,Protect,1,,,10,"Almost always goes first. The user is protected from all attacks for one turn, but the move's success rate halves with each consecutive use of Protect, Detect or Endure."
+215,Psybeam,14,65,100,20,Has a 10% chance to confuse the target.
+216,Psych Up,1,,,10,The user copies all seven of the target's current stat modifiers.
+217,Psychic,14,90,100,10,Has a 10% chance to lower the target's Special Defense by 1 stage.
+218,Psycho Boost,14,140,90,5,Lowers the user's Special Attack by 2 stages after use.
+219,Psywave,14,,80,15,"Randomly inflicts set damage equal to .5x, .6x, .7x, .8x, .9x, 1.0x, 1.1x, 1.2x, 1.3x, 1.4x or 1.5x the user's level."
+220,Pursuit,17,40,100,20,"If the target switches out on the current turn, this move strikes with doubled power before the switch. Baton Passers still escape safely."
+221,Quick Attack,1,40,100,30,Usually goes first.
+222,Rage,1,20,100,20,The user's Attack rises by 1 stage if attacked before its next move.
+223,Rain Dance,11,,,5,"Cancels all other weather moves. For 5 turns: the power of Water attacks is increased by 50%, the power of Fire attacks is decreased by 50%, Thunder becomes 100% accurate, the power of Solar Beam is halved, and the healing power of Morning Sun, Synthesis and Moonlight is decreased from 1/2 to 1/4 of the user's max HP."
+224,Rapid Spin,1,20,100,40,"Removes Spikes and Leech Seed from the user's side of the field; also frees the user from Bind, Clamp, Fire Spin, Sand Tomb, Whirlpool and Wrap. These effects do not occur if the move misses or is used against Ghost-type Pokemon."
+225,Razor Leaf,12,55,95,25,Has a high critical hit ratio.
+226,Razor Wind,1,80,100,10,"The user prepares on turn one, becoming uncontrollable, and then attacks on turn two. Has a high critical hit ratio."
+227,Recover,1,,,20,Restores 1/2 of the user's max HP.
+228,Recycle,1,,,10,"The user's lost item is recovered. Items lost to Trick, Thief, Covet or Knock Off cannot be recovered."
+229,Reflect,14,,,20,"All Pokemon in the user's party receive 1/2 damage from Physical attacks for 5 turns. Reflect will be removed from the user's field if an opponent's Pokemon uses Brick Break. In double battles, both Pokemon are shielded, but damage protection is reduced from 1/2 to 1/3."
+230,Refresh,1,,,20,"The user recovers from burn, poison and paralysis."
+231,Rest,14,,,10,"The user is cured of status effects (and confusion), and recovers full HP, but falls asleep for 2 turns. Pokemon who have Early Bird will wake up one turn early."
+232,Return,1,,100,20,Power increases as user's happiness increases; maximum 102 BP.
+233,Revenge,2,60,100,10,"Almost always goes last, even after another Pokemon's Focus Punch; this move's base power doubles if the user is damaged before its turn."
+234,Reversal,2,,100,15,Base power increases as the user's HP decreases.
+235,Roar,1,,100,20,"Almost always goes last; in trainer battles, the target is switched out for a random member of its team. Escapes from wild battles. Has no effect if the target has Suction Cups, Soundproof or used Ingrain."
+236,Rock Blast,6,25,80,10,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+237,Rock Slide,6,75,90,10,Has a 30% chance to make the target flinch.
+238,Rock Smash,2,20,100,15,Has a 50% chance to lower the target's Defense by 1 stage.
+239,Rock Throw,6,50,90,15,Damages the target.
+240,Rock Tomb,6,50,80,10,Lowers the target's Speed by 1 stage.
+241,Role Play,14,,100,10,The user's own ability is overwritten with the target's ability; does nothing if the target's ability is Wonder Guard.
+242,Rolling Kick,2,60,85,15,Has a 30% chance to make the target flinch.
+243,Rollout,6,30,90,20,The user attacks uncontrollably for five turns; this move's power doubles after each turn and also if Defense Curl was used beforehand. Its power resets after five turns have ended or if the attack misses.
+244,Sacred Fire,10,100,95,5,"Has a 50% chance to burn the target; can be used while frozen, which both attacks the target normally and thaws the user."
+245,Safeguard,1,,,25,Protects the user's entire team from status conditions for five turns.
+246,Sand Tomb,5,15,70,15,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass."
+247,Sand-Attack,5,,100,15,Lowers the target's Accuracy by 1 stage.
+248,Sandstorm,6,,,10,"Cancels all other weather moves. For 5 turns: each active Pokemon, even when protected by a Substitute, loses 1/16 of its max HP unless it is a Ground-, Rock-, or Steel-type, the power of Solarbeam is halved, and the healing power of Morning Sun, Synthesis and Moonlight is halved."
+249,Scary Face,1,,90,10,Lowers the target's Speed by 2 stages.
+250,Scratch,1,40,100,35,Damages the target.
+251,Screech,1,,85,10,Lowers the target's Defense by 2 stages.
+252,Secret Power,1,70,100,20,"This move has a 30% chance to inflict a side effect depending on the battle's current terrain. The target may be put to sleep in any type of grass (or in puddles and very shallow water), its Attack may be lowered by 1 stage while surfing on river or ocean water, its Defense may be lowered by 1 stage while diving underwater, its Speed may be lowered by 1 stage while surfing on pond water, its Accuracy may be lowered by 1 stage on beach and desert sand, it may flinch in caves, it may become confused on rocky outdoor terrain, it may be poisoned on ashy terrain and it may become paralyzed everywhere else (including link battles)."
+253,Seismic Toss,2,,100,20,Does damage equal to user's level.
+254,Selfdestruct,1,200,100,5,"The Defense stat of other Pokemon is halved against this attack, essentially doubling the move's base power; causes the user to faint."
+255,Shadow Ball,8,80,100,15,Has a 20% chance to lower the target's Special Defense by 1 stage.
+256,Shadow Punch,8,60,100,20,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+257,Sharpen,1,,,30,Raises the user's Attack by 1 stage.
+258,Sheer Cold,15,,30,5,The target faints; doesn't work on higher-leveled Pokemon.
+259,Shock Wave,13,60,100,20,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+260,Signal Beam,7,75,100,15,Has a 10% chance to confuse the target.
+261,Silver Wind,7,60,100,5,Has a 10% chance to raise all of the user's stats by 1 stage.
+262,Sing,1,,55,15,Puts the target to sleep.
+263,Sketch,1,,100,1,"The user permanently replaces Sketch with the last move used by the target. Sketch cannot copy itself, Memento or Struggle. Transform and moves that generate other moves can be Sketched successfully, as can Explosion and Selfdestruct if a Pokemon with Damp is present. This move fails automatically when selected in link or wireless battles."
+264,Skill Swap,14,,100,10,The user exchanges abilities with the target; does not work if Wonder Guard is the ability of either the user or the target.
+265,Skull Bash,1,100,100,15,"The user prepares on turn one, raising its Defense by 1 stage and becoming uncontrollable, and then attacks on turn two."
+266,Sky Attack,3,140,90,5,"The user prepares on turn one, becoming uncontrollable, and then attacks on turn two. Also has a 30% chance to make the target flinch."
+267,Sky Uppercut,2,85,90,15,Also hits targets in mid-air via Fly or Bounce.
+268,Slack Off,1,,,10,Restores 1/2 of the user's max HP.
+269,Slam,1,80,75,20,Damages the target.
+270,Slash,1,70,100,20,Has a high critical hit ratio.
+271,Sleep Powder,12,,75,15,Puts the target to sleep.
+272,Sleep Talk,1,,,10,"Does nothing if the user is awake. If the user asleep, it randomly performs one of its attacks. Rest will fail if it is selected. Sleep Talk's generated attacks do not cost PP, but it cannot generate moves with 0 PP, itself, Assist, Bide, Disabled attacks, Focus Punch, Metronome, Mirror Move, Uproar, or attacks with a charge-up turn like Fly or Skull Bash. (Moves with a recharge turn like Hyper Beam can be generated.)"
+273,Sludge,4,65,100,20,Has a 30% chance to poison the target.
+274,Sludge Bomb,4,90,100,10,Has a 30% chance to poison the target.
+275,Smellingsalt,1,60,100,10,"If the target is paralyzed, power is doubled but the target will be cured."
+276,Smog,4,40,100,20,Has a 40% chance to poison the target.
+277,Smokescreen,1,,100,20,Lowers the target's Accuracy by 1 stage.
+278,Snatch,17,,,10,"Almost always goes first. Until the end of the turn, the user will steal a supporting move from another Pokemon (including teammates). In Double Battles, Snatch only steals the first applicable move performed by another Pokemon before wearing off."
+279,Snore,1,40,100,15,Has a 30% chance to make the target flinch; fails if user is awake.
+280,Softboiled,1,,,10,Restores 1/2 of the user's max HP.
+281,Solarbeam,12,120,100,10,"The user prepares on turn one, becoming uncontrollable, and then attacks on turn two. During Sunny Day, this move fires immediately; during Rain Dance, Sandstorm and Hail, this move has half power."
+282,Sonicboom,1,,90,20,Always deals 20 points of damage.
+283,Spark,13,65,100,20,Has a 30% chance to paralyze the target.
+284,Spider Web,7,,,10,"As long as the user remains in battle, the target cannot switch out unless it uses Baton Pass. The target will still be trapped if the user switches out by using Baton Pass."
+285,Spike Cannon,1,20,100,15,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+286,Spikes,5,,100,20,"Damages opponents, unless they are Flying-type or have Levitate, every time they are switched in; hits through Wonder Guard. Can be used up to three times: saps 1/8 of max HP with one layer, 3/16 of max HP with two layers and 1/4 of max HP for three layers."
+287,Spit Up,1,,100,10,Power increases with user's Stockpile count; fails with zero Stockpiles.
+288,Spite,8,,100,10,"The target's most recent move is reduced by 2-5 PP; this fails if the target has not yet performed a move, if the target's last move has run out of PP, or if the target can only use Struggle."
+289,Splash,1,,,40,Doesn't do anything (but we still love it).
+290,Spore,12,,100,15,Puts the target to sleep.
+291,Steel Wing,9,70,95,25,Has a 10% chance to raise the user's Defense by 1 stage.
+292,Stockpile,1,,,10,Can be used up to three times to power Spit Up or Swallow. Stockpiles are lost when these moves are used.
+293,Stomp,1,65,100,20,Has a 30% chance to make the target flinch; also retains its normal accuracy and gains doubled power against Minimized Pokemon.
+294,Strength,1,80,100,15,Damages the target.
+295,String Shot,7,,95,40,Lowers the target's Speed by 1 stage.
+296,Struggle,19,50,100,1,"Used automatically when all of the user's other moves have run out of PP or are otherwise inaccessible. The user receives 1/4 recoil damage. Struggle is classified as a typeless move and will hit any Pokemon, including Rock-, Steel- and Ghost-type Pokemon, for normal damage."
+297,Stun Spore,12,,75,30,Paralyzes the target.
+298,Submission,2,80,80,20,The user receives 1/4 recoil damage.
+299,Substitute,1,,,10,"The user takes one-fourth of its maximum HP to create a substitute; this move fails if the user does not have enough HP for this. Until the substitute is broken, it receives damage from all attacks made by other Pokemon and shields the user from status effects and stat modifiers caused by other Pokemon. The user is still affected by Tickle, Hail, Sandstorm and Attract from behind its Substitute. If a Substitute breaks from a hit during a multistrike move such as Fury Attack, the user takes damage from the remaining strikes."
+300,Sunny Day,10,,,5,"Cancels all other weather moves. For 5 turns: freezing is prevented, the power of Fire attacks is increased by 50%, the power of Water attacks is decreased by 50%, Solar Beam fires immediately, Thunder becomes 50% accurate, and the healing power of Morning Sun, Synthesis and Moonlight is increased from 1/2 to 2/3 of the user's max HP."
+301,Super Fang,1,,90,10,This move halves the target's current HP.
+302,Superpower,2,120,100,5,Lowers the user's Attack and Defense by 1 stage each after use.
+303,Supersonic,1,,55,20,Confuses the target.
+304,Surf,11,95,100,15,Power doubles against a target who is in the middle of using Dive.
+305,Swagger,1,,90,15,Confuses the target and raises its Attack by 2 stages.
+306,Swallow,1,,,10,"This move only works if the user has at least one Stockpile. Restores 1/4 of user's max HP with one Stockpile, 1/2 of user's max HP with two Stockpiles and fully restores the user's HP with three Stockpiles."
+103,Fly,3,70,95,15,"On the first turn, the user flies into the air, becoming uncontrollable, and evades most attacks. Gust, Twister, Thunder, and Sky Uppercut have normal accuracy against a mid-air Pokemon, with Gust and Twister also gaining doubled power. The user may also be hit in mid-air if it was previously targeted by Lock-On or Mind Reader. On the second turn, the user attacks."
+104,Focus Energy,1,,,30,Raises the user's chance for a critical hit by one domain.
+105,Focus Punch,2,150,100,20,"At the beginning of the round, the user tightens its focus; the attack itself usually goes last and will fail if the user is attacked by any other Pokemon during the turn."
+106,Follow Me,1,,,20,"Almost always goes first. For the rest of the turn, all attacks from the opponent's team that target the user's team are redirected toward the user. In double battles, the user's teammate will not be protected from attacks that have more than one intended target."
+107,Foresight,1,,100,40,"Until the target faints or switches, the user's Accuracy modifiers and the target's Evasion modifiers are ignored. Ghost-type targets also lose their immunities against Normal-type and Fighting-type moves."
+108,Frenzy Plant,12,150,90,5,"The user recharges during its next turn; as a result, until the end of the next turn, the user becomes uncontrollable."
+109,Frustration,1,,100,20,Power increases as user's happiness decreases; maximum 102 BP.
+110,Fury Attack,1,15,85,20,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+111,Fury Cutter,7,10,95,20,"The base power of this move doubles with each consecutive hit; however, power is capped at a maximum 160 BP and remains there for any subsequent uses. If this move misses, or if the user selects another move, base power will be reset to 10 BP on the next turn."
+112,Fury Swipes,1,10,80,15,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+113,Future Sight,14,80,90,15,"This move, even if the user and/or the target switch out, will strike the active target at the end of the second turn after its use. This move cannot cause a critical hit and its damage is calculated by using the original user's Special Attack and the original target's Special Defense. The move's damage is typeless so it never receives STAB and ignores weaknesses, resistances and immunities against this move's type. Only one instance of Future Sight or Doom Desire may be active at a time; because Future Sight is typeless and occurs at the end of the round, it also hits through Protect, Detect, Endure and Wonder Guard."
+114,Giga Drain,12,60,100,5,Restores the user's HP by 1/2 of the damage inflicted on the target.
+115,Glare,1,,75,30,Paralyzes the target.
+116,Grasswhistle,12,,55,15,Puts the target to sleep.
+117,Growl,1,,100,40,Lowers the target's Attack by 1 stage.
+118,Growth,1,,,40,Raises the user's Special Attack by 1 stage.
+119,Grudge,8,,,5,The target's next move is set to 0 PP if it directly KOs the user.
+120,Guillotine,1,,30,5,The target faints; doesn't work on higher-leveled Pokemon.
+121,Gust,3,40,100,35,Power doubles if the target is in mid-air via Fly or Bounce.
+122,Hail,15,,,10,"Cancels all other weather moves. For 5 turns: each active Pokemon, even when protected by a Substitute, loses 1/16 of its max HP unless it is an Ice-type, the power of Solarbeam is halved, and the healing power of Morning Sun, Synthesis and Moonlight is halved."
+123,Harden,1,,,30,Raises the user's Defense by 1 stage.
+124,Haze,15,,,30,Eliminates any stat modifiers from all active Pokemon. The stat boost from Choice Band is not affected.
+125,Headbutt,1,70,100,15,Has a 30% chance to make the target flinch.
+126,Heal Bell,1,,,5,Every Pokemon in the user's party is cured of status conditions. Allied Pokemon who have Soundproof are not affected.
+127,Heat Wave,10,100,90,10,Has a 10% chance to burn the target.
+128,Helping Hand,1,,,20,"Always goes first. In double battles, the power of the user's partner's attacks is increased by 1.5x for that turn; does nothing in single battles."
+129,Hi Jump Kick,2,85,90,20,"If this attack misses the target, the user receives 1/8 ""recoil"" damage of what it would have inflicted."
+130,Hidden Power,1,,100,15,Varies in power and type depending on the user's IVs; maximum 70 BP. Will run off the user's Attack or Special Attack depending on type.
+131,Horn Attack,1,65,100,25,Damages the target.
+132,Horn Drill,1,,30,5,The target faints; doesn't work on higher-leveled Pokemon.
+133,Howl,1,,,40,Raises the user's Attack by 1 stage.
+134,Hydro Cannon,11,150,90,5,"The user recharges during its next turn; as a result, until the end of the next turn, the user becomes uncontrollable."
+135,Hydro Pump,11,120,80,5,Damages the target.
+136,Hyper Beam,1,150,90,5,"The user recharges during its next turn; as a result, until the end of the next turn, the user becomes uncontrollable."
+137,Hyper Fang,1,80,90,15,Has a 10% chance to make the target flinch.
+138,Hyper Voice,1,90,100,10,Damages the target.
+139,Hypnosis,14,,60,20,Puts the target to sleep.
+140,Ice Ball,15,30,90,20,The user attacks uncontrollably for five turns; this move's power doubles after each turn and also if Defense Curl was used beforehand. Its power resets after five turns have ended or if the attack misses.
+141,Ice Beam,15,95,100,10,Has a 10% chance to freeze the target.
+142,Ice Punch,15,75,100,15,Has a 10% chance to freeze the target.
+143,Icicle Spear,15,10,100,30,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+144,Icy Wind,15,55,95,15,Lowers the target's Speed by 1 stage.
+145,Imprison,14,,,10,"Until the user faints or switches out, the opponent cannot select any moves that it has in common with the user. In double battles, this move affects both opponents."
+146,Ingrain,12,,,20,"The user recovers 1/16 of its max HP after each turn, but it cannot be switched out or forced to switch out."
+147,Iron Defense,9,,,15,Raises the user's Defense by 2 stages.
+148,Iron Tail,9,100,75,15,Has a 30% chance to lower the target's Defense by 1 stage.
+149,Jump Kick,2,70,95,20,"If this attack misses the target, the user receives 1/8 ""recoil"" damage of what it would have inflicted."
+150,Karate Chop,2,55,100,25,Has a high critical hit ratio.
+151,Kinesis,14,,80,15,Lowers the target's Accuracy by 1 stage.
+152,Knock Off,17,20,100,20,Disables the target's held item unless it has Sticky Hold. Items lost to this move cannot be recovered by using Recycle.
+153,Leaf Blade,12,70,100,15,Has a high critical hit ratio.
+154,Leech Life,7,20,100,15,Restores the user's HP by 1/2 of the damage inflicted on the target.
+155,Leech Seed,12,,90,10,"The user steals 1/8 of the target's max HP until the target is switched out, is KO'ed, or uses Rapid Spin; does not work against Grass-type Pokemon or Pokemon behind Substitutes."
+156,Leer,1,,100,30,Lowers the target's Defense by 1 stage.
+157,Lick,8,20,100,30,Has a 30% chance to paralyze the target.
+158,Light Screen,14,,,30,"All Pokemon in the user's party receive 1/2 damage from Special attacks for 5 turns. Light Screen will be removed from the user's field if an opponent's Pokemon uses Brick Break. In double battles, both Pokemon are shielded, but damage protection is reduced from 1/2 to 1/3."
+159,Lock-On,1,,100,5,"This move ensures that the user's next attack will hit against its current target. This effect can be Baton Passed to another Pokemon. Lock-On fails against Pokemon in the middle of using Protect, Detect, Dig, Fly, Bounce or Dive, as well as Pokemon behind a Substitute."
+160,Lovely Kiss,1,,75,10,Puts the target to sleep.
+161,Low Kick,2,,100,20,Base power increases as the target's weight increases.
+162,Luster Purge,14,70,100,5,Has a 50% chance to lower the target's Special Defense by 1 stage.
+163,Mach Punch,2,40,100,30,Usually goes first.
+164,Magic Coat,14,,,15,"Almost always goes first. Until the end of the turn, the user will reflect one non-damaging move back at its user (including allies). In Double Battles, this move will only reflect the first applicable move before wearing off."
+165,Magical Leaf,12,60,100,20,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+166,Magnitude,5,,100,30,"Deals variable damage, between 10 base power and 130 base power, as well as double damage against Digging Pokemon."
+167,Mean Look,1,,,5,"As long as the user remains in battle, the target cannot switch out unless it uses Baton Pass. The target will still be trapped if the user switches out by using Baton Pass."
+168,Meditate,14,,,40,Raises the user's Attack by 1 stage.
+169,Mega Drain,12,40,100,10,Restores the user's HP by 1/2 of the damage inflicted on the target.
+170,Mega Kick,1,120,75,5,Damages the target.
+171,Mega Punch,1,80,85,20,Damages the target.
+172,Mega Horn,7,120,85,10,Damages the target.
+173,Memento,17,,100,10,The user sacrifices itself to lower the target's Attack and Special Attack by 2 stages each.
+174,Metal Claw,9,50,95,35,Has a 10% chance to raise the user's Attack by 1 stage.
+175,Metal Sound,9,,85,40,Lowers the target's Special Defense by 2 stages.
+176,Meteor Mash,9,100,85,10,Has a 20% chance to raise the user's Attack by 1 stage.
+177,Metronome,1,,,10,"The user performs a randomly selected move; almost any move in the game could be picked. Metronome cannot generate itself, Assist, Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Mimic, Mirror Coat, Mirror Move, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief, Trick or any move that the user already knows."
+178,Milk Drink,1,,,10,Restores 1/2 of the user's max HP.
+179,Mimic,1,,100,10,"This move is temporarily replaced by the target's last move; the replacement move will have 5 PP and become part of the user's moveset until the user switches out or the battle ends. Mimic copies attacks even if they miss or the user has immunity toward their type; it cannot copy itself, Struggle, Transform, Sketch, Metronome or moves that the user already knows, and it will fail if the target has yet to use a move."
+180,Mind Reader,1,,100,5,"This move ensures that the user's next attack will hit against its current target. This effect can be Baton Passed to another Pokemon. Mind Reader fails against Pokemon in the middle of using Protect, Detect, Dig, Fly, Bounce or Dive, as well as Pokemon behind a Substitute."
+181,Minimize,1,,,20,"Raises the user's Evasion by 1 stage; however, Stomp retains its normal accuracy and gains doubled power against Minimized Pokemon."
+182,Mirror Coat,14,,100,20,"Almost always goes last; if an opponent strikes with a Special attack before the user's turn, the user retaliates for twice the damage it had endured. In double battles, this attack targets the last opponent to hit the user with a Special attack and cannot hit the user's teammate."
+183,Mirror Move,3,,,20,"The user performs the last move executed by its target; if applicable, an attack's damage is calculated with the user's stats, level and type(s). This moves fails if the target has not yet used a move. Mirror Move cannot copy Encore, Struggle, global moves affecting all Pokemon on the field (such as Hail, Rain Dance, Sandstorm and Sunny Day), moves that can bypass Protect (Doom Desire, Future Sight, Imprison, Perish Song, Psych Up, Role Play and Transform) and moves that do not have a specific target (such as Light Screen, Reflect, Safeguard and Spikes)."
+184,Mist,15,,,30,"Protects every Pokemon on the user's team from negative stat modifiers caused by other Pokemon (including teammates), but not by itself, for five turns. The team's Accuracy and Evasion stats are also protected. Moves that cause negative stat modifiers as a secondary effect, such as Psychic, still deal their regular damage."
+185,Mist Ball,14,70,100,5,Has a 50% chance to lower the target's Special Attack by 1 stage.
+186,Moonlight,1,,,5,"Restores a fraction of the user's max HP depending on the weather: 2/3 during Sunny Day, 1/2 during regular weather and 1/4 during Rain Dance, Hail and Sandstorm."
+187,Morning Sun,1,,,5,"Restores a fraction of the user's max HP depending on the weather: 2/3 during Sunny Day, 1/2 during regular weather and 1/4 during Rain Dance, Hail and Sandstorm."
+188,Mud Shot,5,55,95,15,Lowers the target's Speed by 1 stage.
+189,Mud Sport,5,,,15,All Electric-type moves are 50% weaker until the user switches out.
+190,Mud-Slap,5,20,100,10,Lowers the target's Accuracy by 1 stage.
+191,Muddy Water,11,95,85,10,Has a 30% chance to lower the target's Accuracy by 1 stage.
+192,Nature Power,1,,95,20,"The user generates another move depending on the battle's current terrain. It generates Stun Spore in grass and tall grass (as well as in puddles and very shallow water), Razor Leaf in very tall grass, Surf while surfing on top of river and ocean water, Bubblebeam while surfing on top of pond water, Hydro Pump while diving underwater, Rock Slide on any rocky outdoor terrain, Shadow Ball inside of caves, Earthquake on beach and desert sand, and Swift everywhere else (including link battles)."
+193,Needle Arm,12,60,100,15,Has a 30% chance to make the target flinch.
+194,Night Shade,8,,100,15,Does damage equal to user's level.
+195,Nightmare,8,,100,15,"This move only works on a sleeping target; as long as the target remains asleep and in battle, 1/4 of its max HP is sapped after each turn."
+196,Octazooka,11,65,85,10,Has a 50% chance to lower the target's Accuracy by 1 stage.
+197,Odor Sleuth,1,,100,40,"Until the target faints or switches, the user's Accuracy modifiers and the target's Evasion modifiers are ignored. Ghost-type targets also lose their immunities against Normal-type and Fighting-type moves."
+198,Outrage,16,90,100,20,The user attacks uncontrollably for 2-3 turns and then gets confused.
+199,Overheat,10,140,90,5,Lowers the user's Special Attack by 2 stages after use.
+200,Pain Split,1,,100,20,Calculates the average of the user's current HP and the target's HP; the HP of both Pokemon is set to this average.
+201,Pay Day,1,40,100,20,The player picks up extra money after in-game battles; the money received is equal to: [user's level * 5 * number of times Pay Day is used]. The player does not lose money if the opponent uses Pay Day but the player wins the battle.
+202,Peck,3,35,100,35,Damages the target.
+203,Perish Song,1,,,5,All active Pokemon will faint in 3 turns unless they are switched out.
+204,Petal Dance,12,70,100,20,The user attacks uncontrollably for 2-3 turns and then gets confused.
+1,Absorb,12,20,100,20,Restores the user's HP by 1/2 of the damage inflicted on the target.
+2,Acid,4,40,100,30,Has a 10% chance to lower the target's Defense by 1 stage.
+3,Acid Armor,4,,,40,Raises the user's Defense by 2 stages.
+4,Aerial Ace,3,60,100,20,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+5,Aeroblast,3,100,95,5,Has a high critical hit ratio.
+6,Agility,14,,,30,Raises the user's Speed by 2 stages.
+7,Air Cutter,3,55,95,25,Has a high critical hit ratio.
+8,Amnesia,14,,,20,Raises the user's Special Defense by 2 stages.
+9,Ancientpower,6,60,100,5,Has a 10% chance to raise all of the user's stats by 1 stage.
+10,Arm Thrust,2,15,100,20,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+11,Aromatherapy,12,,,5,Every Pokemon in the user's party is cured of status conditions.
+12,Assist,1,,,20,"The user performs a random move from any of the Pokemon on its team. Assist cannot generate itself, Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Metronome, Mimic, Mirror Coat, Mirror Move, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief or Trick."
+13,Astonish,8,30,100,15,Has a 30% chance to make the target flinch.
+14,Attract,1,,100,15,"Infatuates Pokemon of the opposite gender, even if they have a Substitute, causing a 50% chance for the target's attack to fail."
+15,Aurora Beam,15,65,100,20,Has a 10% chance to lower the target's Attack by 1 stage.
+16,Barrage,1,15,85,20,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+17,Barrier,14,,,30,Raises the user's Defense by 2 stages.
+18,Baton Pass,1,,,40,"The user returns to its party, bypassing any trapping moves and Pursuit; it passes all stat modifiers (positive or negative), as well as confusion, Focus Energy, Ingrain, Stockpiles, Perish Song count, Leech Seed, Ghost Curses, Mind Reader, Lock-On, Block, Mean Look, Spider Web and Substitute to the replacement Pokemon."
+19,Beat Up,17,10,100,10,Each healthy (i.e. not fainted nor inflicted with a status condition) Pokemon in your party contributes a typeless 10 base power hit determined solely by their base Attack and Defense stats.
+20,Belly Drum,1,,,10,The user maximizes its Attack but sacrifices 50% of its max HP.
+21,Bide,1,,100,10,The user absorbs all damage for 2-3 turns and then inflicts twice the absorbed damage on its target. This move ignores the target's type but still cannot hit Ghost-type Pokemon.
+22,Bind,1,15,75,20,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass."
+23,Bite,17,60,100,25,Has a 30% chance to make the target flinch.
+24,Blast Burn,10,150,90,5,"The user recharges during its next turn; as a result, until the end of the next turn, the user becomes uncontrollable."
+25,Blaze Kick,10,85,90,10,Has a high critical hit ratio and a 10% chance to burn the target.
+26,Blizzard,15,120,70,5,Has a 10% chance to freeze the target.
+27,Block,1,,,5,"As long as the user remains in battle, the target cannot switch out unless it uses Baton Pass. The target will still be trapped if the user switches out by using Baton Pass."
+28,Body Slam,1,85,100,15,Has a 30% chance to paralyze the target.
+29,Bone Club,5,65,85,20,Has a 10% chance to make the target flinch.
+30,Bone Rush,5,25,80,10,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+31,Bonemerang,5,50,90,10,"Strikes twice; if the first hit breaks the target's Substitute, the real Pokemon will take damage from the second hit."
+32,Bounce,3,85,85,5,"On the first turn, the user bounces into the air, becoming uncontrollable, and evades most attacks. Gust, Twister, Thunder and Sky Uppercut have normal accuracy against a mid-air Pokemon, with Gust and Twister also gaining doubled power. The user may also be hit in mid-air if it was previously targeted by Lock-On or Mind Reader. On the second turn, the user descends and has a 30% chance to paralyze the target."
+33,Brick Break,2,75,100,15,"Reflect and Light Screen are removed from the target's field even if the attack misses. However, if the target is a Ghost-type, this will not occur."
+34,Bubble,11,20,100,30,Has a 10% chance to lower the target's Speed by 1 stage.
+35,Bubblebeam,11,65,100,20,Has a 10% chance to lower the target's Speed by 1 stage.
+36,Bulk Up,2,,,20,Raises the user's Attack and Defense by 1 stage each.
+37,Bullet Seed,12,10,100,30,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+38,Calm Mind,14,,,20,Raises the user's Special Attack and Special Defense by 1 stage each.
+39,Camouflage,1,,,20,"The user's type changes according to the current terrain. It becomes Grass-type in tall grass and very tall grass (as well as in puddles and very shallow water), Water-type while surfing on or diving under any body of water, Rock-type while inside any caves (including Shoal Cave) or on any rocky terrain, Ground-type on beach and desert sands, and Normal-type everywhere else. The user will always become Normal-type during link battles."
+40,Charge,13,,,20,Doubles the power of the user's Electric attacks on the next turn.
+41,Charm,1,,100,20,Lowers the target's Attack by 2 stages.
+42,Clamp,11,35,75,10,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass."
+43,Comet Punch,1,18,85,15,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+44,Confuse Ray,8,,100,10,Confuses the target.
+45,Confusion,14,50,100,25,Has a 10% chance to confuse the target.
+46,Constrict,1,10,100,35,Has a 10% chance to lower the target's Speed by 1 stage.
+47,Conversion,1,,,30,The user's type changes to match the type of one of its four attacks. This move fails if the user cannot change its type under this condition.
+48,Conversion 2,1,,100,30,"The user's type changes to one that resists the type of the last attack that hit the user. In double battles, this situation holds even when the user is last hit by an attack from its partner."
+49,Cosmic Power,14,,,20,Raises the user's Defense and Special Defense by 1 stage each.
+50,Cotton Spore,12,,85,40,Lowers the target's Speed by 2 stages.
+51,Counter,2,,100,20,"Almost always goes last; if an opponent strikes with a Physical attack before the user's turn, the user retaliates for twice the damage it had endured. In double battles, this attack targets the last opponent to hit the user with a Physical attack and cannot hit the user's teammate."
+52,Covet,1,40,100,40,Steals the target's held item unless the user is already holding an item or the target has Sticky Hold. Recycle cannot recover the stolen item.
+53,Crabhammer,11,90,85,10,Has a high critical hit ratio.
+54,Cross Chop,2,100,80,5,Has a high critical hit ratio.
+55,Crunch,17,80,100,15,Has a 20% chance to lower the target's Special Defense by 1 stage.
+56,Crush Claw,1,75,95,10,Has a 50% chance to lower the target's Defense by 1 stage.
+57,Curse,18,,,10,"When used by a Ghost-type, the user sacrifices half of its max HP to sap the target by 1/4 of its max HP per turn. When used by anything else, the user's Speed is decreased by 1 stage and its Attack and Defense are increased by 1 stage."
+58,Cut,1,50,95,30,Damages the target.
+59,Defense Curl,1,,,40,"Raises the user's Defense by 1 stage; after one use of this move, the user's starting base power is doubled for every use of Rollout or Ice Ball."
+60,Destiny Bond,8,,,5,Causes an opponent to faint if its next attack KOs the user.
+61,Detect,2,,,5,"Almost always goes first. The user is protected from all attacks for one turn, but the move's success rate halves with each consecutive use of Protect, Detect or Endure."
+62,Dig,5,60,100,10,"On the first turn, the user digs underground, becoming uncontrollable, and evades all attacks. Earthquake and Magnitude can hit underground and gain doubled power. The user may also be hit underground if it was previously targeted by Lock-On or Mind Reader or if it is attacked by a Pokemon with No Guard. On the second turn, the user attacks."
+63,Disable,1,,55,20,The target cannot choose its last move for 4-7 turns. Disable only works on one move at a time and fails if the target has not yet used a move or if its move has run out of PP. The target does nothing if it is about to use a move that becomes disabled.
+64,Dive,11,60,100,10,"On the first turn, the user dives underwater, becoming uncontrollable, and evades all attacks except for Surf and Whirlpool, which have doubled power; the user may also be hit underwater if it was previously targeted by Lock-On or Mind Reader. On the second turn, the user attacks."
+65,Dizzy Punch,1,70,100,10,Has a 20% chance to confuse the target.
+66,Doom Desire,9,120,85,5,"This move, even if the user and/or the target switch out, will strike the active target at the end of the second turn after its use. This move cannot cause a critical hit and its damage is calculated by using the original user's Special Attack and the original target's Special Defense. The move's damage is typeless so it never receives STAB and ignores weaknesses, resistances and immunities against this move's type. Only one instance of Doom Desire or Future Sight may be active at a time; because Doom Desire is typeless and occurs at the end of the round, it also hits through Protect, Detect, Endure and Wonder Guard."
+67,Double Kick,2,30,100,30,"Strikes twice; if the first hit breaks the target's Substitute, the real Pokemon will take damage from the second hit."
+68,Double Team,1,,,15,Raises the user's Evasion by 1 stage.
+69,Double-edge,1,120,100,15,The user receives 1/3 recoil damage.
+70,Doubleslap,1,15,85,10,"Attacks 2-5 times in one turn; if one of these attacks breaks a target's Substitute, the target will take damage for the rest of the hits. This move has a 3/8 chance to hit twice, a 3/8 chance to hit three times, a 1/8 chance to hit four times and a 1/8 chance to hit five times."
+71,Dragon Claw,16,80,100,15,Damages the target.
+72,Dragon Dance,16,,,20,Raises the user's Attack and Speed by 1 stage each.
+73,Dragon Rage,16,,100,10,Always deals 40 points of damage.
+74,Dragonbreath,16,60,100,20,Has a 30% chance to paralyze the target.
+75,Dream Eater,14,100,100,15,Restores the user's HP by 1/2 of the damage inflicted on the target but only works on a sleeping target.
+76,Drill Peck,3,80,100,20,Damages the target.
+77,Dynamicpunch,2,100,50,5,Confuses the target.
+78,Earthquake,5,100,100,10,Power doubles when performed against Pokemon using Dig.
+79,Egg Bomb,1,100,75,10,Damages the target.
+80,Ember,10,40,100,25,Has a 10% chance to burn the target.
+81,Encore,1,,100,5,"The target is forced to use its last attack for the next 2-6 turns. The effects of this move will end immediately if the target runs out of PP for the repeated attack. In double battles, a Pokemon who has received an Encore will target a random opponent with single-target attacks."
+82,Endeavor,1,,100,5,Inflicts damage equal to the target's current HP - the user's current HP.
+83,Endure,1,,,10,"Almost always goes first. The user is left with at least 1 HP following any attacks for one turn, but the move's success rate halves with each consecutive use of Protect, Detect or Endure."
+84,Eruption,10,,100,5,Base power decreases as the user's HP decreases.
+85,Explosion,1,250,100,5,"The Defense stat of other Pokemon is halved against this attack, essentially doubling the move's base power; causes the user to faint."
+86,Extrasensory,14,80,100,30,Has a 10% chance to make the target flinch.
+87,Extremespeed,1,80,100,5,Usually goes first.
+88,Facade,1,70,100,20,"Power doubles if the user is inflicted with burn, paralysis or poison."
+89,Faint Attack,17,60,100,25,"Ignores Evasion and Accuracy modifiers and never misses except against Protect, Detect or a target in the middle of Dig, Fly, Dive or Bounce."
+90,Fake Out,1,40,100,10,"If this is the user's first move after being sent or switched into battle, the target flinches; this move fails otherwise and against targets with Inner Focus."
+91,Fake Tears,17,,100,20,Lowers the target's Special Defense by 2 stages.
+92,False Swipe,1,40,100,40,Leaves the target with at least 1 HP.
+93,Featherdance,3,,100,15,Lowers the target's Attack by 2 stages.
+94,Fire Blast,10,120,85,5,Has a 10% chance to burn the target.
+95,Fire Punch,10,75,100,15,Has a 10% chance to burn the target.
+96,Fire Spin,10,15,70,15,"Traps the target for 2-5 turns, causing damage equal to 1/16 of its max HP each turn; this trapped effect can be broken by Rapid Spin. The target can still switch out if it uses Baton Pass."
+97,Fissure,5,,30,5,The target faints; doesn't work on higher-leveled Pokemon.
+98,Flail,1,,100,15,Base power increases as the user's HP decreases.
+99,Flame Wheel,10,60,100,25,"Has a 10% chance to burn the target; can be used while frozen, which both attacks the target normally and thaws the user."
+100,Flamethrower,10,95,100,15,Has a 10% chance to burn the target.
+101,Flash,1,,70,20,Lowers the target's Accuracy by 1 stage.
+102,Flatter,17,,100,15,Confuses the target and raises its Special Attack by 1 stage.

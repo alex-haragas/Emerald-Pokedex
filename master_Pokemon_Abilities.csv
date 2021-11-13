@@ -1,0 +1,82 @@
+1,Overgrow,"When HP is below 1/3rd its maximum, power of Grass-type moves is increased by 50%.
+When HP is below 1/3rd its maximum, power of Grass-type moves is increased by 50%.",
+2,Static,"The opponent has a 30% chance of being Paralyzed when using an attack, that requires physical contact, against this Pokémon.","If the Pokémon is in the lead spot, chance of encountering an Electric-type wild Pokémon increases severely."
+3,Stench,"If the Pokémon uses a move that deals damage on the opponent, there is chance the oponent flinches ","If the Pokémon is in the lead spot, chance of encountering a wild Pokémon decreases to 50%. In Battle Pyramid, it decreases to 75%."
+4,Drizzle,Weather changes to Heavy Rain when the Pokémon enters the battle. ,
+5,Speed Boost,Speed increases by one stage at the end of each turn.,
+6,Battle Armor,Opponent’s moves cannot Critical Hit.,
+7,Sturdy,"The Pokémon will remain with 1 HP if it was going to be knocked out by a move when at full Hit Points, and it is immune to One Hit KO moves.",
+8,Damp,"Explosion, Selfdestruct, Mind Blown & Misty Explosion will not work while the Pokémon is on the field.",
+9,Limber,The Pokémon cannot be Paralysed.,
+10,Sand Veil,Raises the Pokémon’s evasion during a sandstorm by one level.,"If the Pokémon is in the lead spot, chance of encountering a wild Pokémon during a sandstorm decreases to 50%."
+11,Volt Absorb,The Pokémon heals up to 1/4 of its maximum Hit Points when hit with Electric-type moves.,
+12,Water Absorb,The Pokémon heals up to 1/4 of its maximum Hit Points when hit with Water-type moves.,
+13,Oblivious,"The Pokémon cannot be under the Attract condition, taunted or intimidated.",
+14,Clud Nine,All weather effects are negated while the Pokémon is on the field.,
+15,Compound Eyes,Raises the Pokémon’s accuracy by 30%.,"If the Pokémon is in the lead spot, chance of encountering a wild Pokémon holding an item increases."
+16,Insomnia,The Pokémon cannot be put to Sleep.,
+17,Color Change,This Pokémon’s type becomes the type of the last damaging move which hit it.,
+18,Immunity,The Pokémon cannot be Poisoned.,
+19,Flash Fire,"Activates when user is hit by a damaging Fire-type move. Once activated, user's Fire-type moves deal 1.5 damage and it is immune to damage from Fire-Type Attacks.","If the Pokémon is in the lead spot, chance of encountering a Fire-type wild Pokémon increases severely."
+20,Shield Dust,Damaging moves used by the opponent will not have an additional effect.,
+21,Own Tempo,The Pokémon cannot be Confused while having this ability. Blocks Intimidate,
+22,Suction Cups,Negates moves that force switching out.,"If the Pokémon is in the lead spot, when fishing, Pokémon are easier to catch."
+23,Intimidate,"Upon entering battle, the opponent’s Attack lowers one stage.","If the Pokémon is in the lead spot, chance of encountering a low level wild Pokémon decreases by 50%."
+24,Shadow Tag,"The opponent cannot run nor switch while this Pokémon is in play. The opponent may still switch by using Baton Pass, U-turn or Volt Switch, if it is holding a Shed Shell or is a Ghost-type.",
+25,Rough Skin,"The opponent is hurt by 1/8th of his maxium Hit Points of recoil when using an attack, that requires physical contact, against this Pokémon.",
+26,Wonder Guard,"The Pokémon is only harmed by Super Effective damage, weather effects and condition effects.",
+27,Levitate,Damage dealing Ground-type moves have no effect on this Pokémon. Cannot be trapped by Arena Trap ability. Takes no damage from Spikes.,
+28,Effect Spore,"The opponent has a 10% chance of being induced by PARALYZE, POISON, or SLEEP when using an attack, that requires physical contact, against this Pokémon.",
+29,Synchronize,"When this Pokémon becomes Poisoned, Paralyzed, or Burned, so does the opponent.","If the Pokémon is in the lead spot, chance of encountering a wild Pokémon with the same nature will be 100%."
+30,Clear Body,Opponents’ moves which lower this Pokémon’s stats have no effect.,
+31,Natural Cure,The Pokémon’s status is healed when withdrawn from battle.,
+32,Lightning Rod,Electric-type moves are drawn to this Pokémon. Electric-type moves will do no damage and the Pokémon's SP ATK is raised one stage.,"If the Pokémon is in the lead spot, chance of encountering an Electric-type wild Pokémon increases severely."
+33,Serene Grace,The chances of a move having a secondary effect is doubled.,
+34,Swift Swim,"When rainy, The Pokémon’s Speed doubles.
+",
+35,Chlorophyll,"When sunny, the Pokémon’s Speed doubles.
+",
+36,Illuminate,"If the Pokémon is in the lead spot, chance of encountering a wild Pokémon increases to 200%.
+",
+37,Trace,Ability becomes the same as that of the opponent.,
+38,Huge Power,The Pokémon's Attack stat is doubled while it has this ability.,
+39,Poison Point,"The opponent has a 30% chance of being induced with Poison when using an attack, that requires physical contact, against this Pokémon.",
+40,Inner Focus,This Pokémon will not flinch. Does not prevent flinching with Focus Punch. Also prevents stats from being lowered by the ability Intimidate,
+41,Magma Armor,This Pokémon cannot be Frozen while having this ability.,Eggs hatch quicker (half the number of steps are required).
+42,Water Veil,This Pokémon cannot be Burned while having this ability.,
+43,Magnet Pull	,Steel types cannot run nor switch while this Pokémon is in battle.,"If the Pokémon is in the lead spot, chance of encountering a Steel-type wild Pokémon increases severely."
+44,Soundproof,Unaffected by sound moves.,
+45,Rain Dish,"If Heavy Rain weather is in effect, recovers 1/16th max Hit Points at the end of the turn.",
+46,Sand Stream,Sandstorm blows when the Pokémon enters battle.,
+47,Pressure,"When this Pokémon is hit by a move, the opponent’s PP lowers by 2 rather than 1.","If the Pokémon is in the lead spot, chance of encountering a high level wild Pokémon increases by 50%."
+48,Thick Fat,Fire and Ice-type moves deal 50% damage.,
+49,Early Bird,"Sleep conditions lasts for half as long, rounding down.",
+50,Flame Body,"The opponent has a 30% chance of being induced with Burn when using an attack, that requires physical contact, against this Pokémon.",Eggs hatch quicker (half the number of steps are required).
+51,Run Away,"Except for trainer battles, can always run from battle. It still cannot switch during Mean Look or Block or when the opponent is trapping with the Arena Trap, Magnet Pull, or Shadow Tag ability.",
+52,Keen Eye,Opponent cannot lower this Pokémon’s accuracy. The Pokémon ignores evasion boosts of the opponent,"If the Pokémon is in the lead spot, chance of encountering a low level wild Pokémon decreases by 50%."
+53,Hyper Cutter,Opponent cannot lower this Pokémon’s Attack value.,
+54,Plus,"When battling with Plus or Minus, Special Attack increases by 50%.",
+55,Minus,"When battling with Plus or Minus, Special Attack increases by 50%.",
+56,Forecast,"This Pokémon’ changes its form and type if Harsh Sunlight, Heavy Rain or Hail is in effect.",
+57,Sticky Hold,This Pokémon’s item cannot be taken.,"If the Pokémon is in the lead spot, when fishing, Pokémon are easier to catch."
+58,Shed Skin,"Every turn, it has a 1 in 3 chance of healing from a status condition.
+",
+59,Guts,Attack is increased by 50% when induced with a status.,
+60,Marvel Scale,"Defense is increased by 50% when induced with a status.
+",
+61,Liquid Ooze,"When the opponent absorbs Hit Points from this Pokémon, the opponent instead loses Hit Points.",
+62,Blaze,"When HP is below 1/3rd its maximum, power of Fire-type moves is increased by 50%.",
+63,Torrent,"When HP is below 1/3rd its maximum, power of Water-type moves is increased by 50%.",
+64,Swarm,"When HP is below 1/3rd its maximum, power of Bug-type moves is increased by 50%.","While travelling, the roar of common wild Pokémon can be heard more often if the Pokémon is in the lead spot."
+65,Rock Head,Does not receive recoil damage from recoil-causing damages.,
+66,Drought,Weather changes to Intense Sunshine when the Pokémon enters the battle.,
+67,Arena Trap	,The opponent cannot run nor switch. Flying-type Pokémon and Pokémon with the Levitate special ability are unaffected.,"If the Pokémon is in the lead spot, chance of encountering a wild Pokémon increases to 200%."
+68,Vital Spirit,The Pokémon cannot be Asleep.,"If the Pokémon is in the lead spot, chance of encountering a high level wild Pokémon increases by 50%."
+69,White Smoke,Opponents’ moves which lower this Pokémon’s stats have no effect. ,"If the Pokémon is in the lead spot, chance of encountering a wild Pokémon decreases to 50%."
+70,Pure Power,The Pokémon’s Attack stat is doubled in battle while having this ability.,
+71,Shell Armor,Opponent’s moves cannot Critical Hit.,
+72,Air Lock,All weather effects are negated while the Pokémon is on the field.,
+73,Cute Charm,"The opponent has a 30% chance of being induced with Attract when using an attack, that requires physical contact, against this Pokémon.","If the Pokémon is in the lead spot, chance of encountering a wild Pokémon of the opposite gender will be 66.6%. Does not effect swarming Pokémon."
+74,Pick Up,Has a 10% chance of finding and holding an item after battle. Will not work if this Pokémon is already holding an item.,
+75,Hustle,"Damage from physical attacks is increased by 50%, but average accuracy is only 80%.","If the Pokémon is in the lead spot, chance of encountering a high level wild Pokémon increases by 50%."
+76,Truant,"The Pokémon cannot use a move in the turn following one where it used a move, even if that move failed.",
